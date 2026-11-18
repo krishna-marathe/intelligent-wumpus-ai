@@ -1,6 +1,6 @@
 # 🏹 Intelligent Wumpus World Agent Simulator
 
-[![CI](https://github.com/Samarthkulkarni-AI/intelligent-wumpus-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/Samarthkulkarni-AI/intelligent-wumpus-ai/actions/workflows/ci.yml)
+[![CI](https://github.com/krishna-marathe/intelligent-wumpus-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/krishna-marathe/intelligent-wumpus-ai/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![Flask](https://img.shields.io/badge/Flask-3.0+-green.svg)](https://flask.palletsprojects.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
