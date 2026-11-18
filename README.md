@@ -216,3 +216,4 @@ Toggle **Auto-Mode** to let the AI play autonomously.
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 hi helloooo  this is just check 
+i want too know about operaitol  role 
