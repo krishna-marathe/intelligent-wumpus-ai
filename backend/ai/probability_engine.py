@@ -29,7 +29,7 @@ class ProbabilisticEngine:
         self.visited = visited
         self.breeze_observations = breeze_obs
         self.stench_observations = stench_obs
-
+ 
     def get_pit_probabilities(self, frontier, wall_edges=None):
         """Simple risk estimate: for each frontier cell, count how many
         breeze-visited neighbours it has vs total visited neighbours."""
